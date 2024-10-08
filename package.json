@@ -14,12 +14,13 @@
     "@netlify/functions": "^2.6.0",
     "@netlify/remix-adapter": "^2.3.1",
     "@remix-run/node": "^2.12.1",
-    "@remix-run/react": "^2.12.1",
+    "@remix-run/react": "^1.19.3",
     "@remix-run/serve": "^2.12.1",
+    "bootstrap": "^5.3.3",
     "isbot": "^4.1.0"
   },
   "devDependencies": {
-    "@remix-run/dev": "^2.12.1",
+    "@remix-run/dev": "^1.3.3",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
     "@typescript-eslint/eslint-plugin": "^6.7.4",
